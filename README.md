@@ -5,4 +5,5 @@ Some text followed by an unordered list:
 * item 1
 * item 2
 * item 3
+
 ### Tertiary heading
